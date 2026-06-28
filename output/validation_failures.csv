@@ -1,0 +1,861 @@
+table,company_id,year,field,issue,severity
+profitandloss,ADANIPORTS,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,TTM,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ADANIPORTS,TTM,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Sep 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,ASIANPAINT,Sep 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,PNB,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Sep 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,POWERGRID,Sep 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Sep 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+balancesheet,TECHM,Sep 2024,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,ABB,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2013,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2014,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2015,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2016,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2017,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2018,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2019,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2020,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2021,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2022,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2023,"company_id,year",Duplicate company-year,CRITICAL
+cashflow,BAJAJ-AUTO,Mar 2024,"company_id,year",Duplicate company-year,CRITICAL
+profitandloss,ULTRACEMCO,Mar 2013,company_id,Foreign key missing,CRITICAL
+profitandloss,ULTRACEMCO,Mar 2014,company_id,Foreign key missing,CRITICAL
+profitandloss,ULTRACEMCO,Mar 2015,company_id,Foreign key missing,CRITICAL
+profitandloss,ULTRACEMCO,Mar 2016,company_id,Foreign key missing,CRITICAL
+profitandloss,ULTRACEMCO,Mar 2017,company_id,Foreign key missing,CRITICAL
+profitandloss,ULTRACEMCO,Mar 2018,company_id,Foreign key missing,CRITICAL
+profitandloss,ULTRACEMCO,Mar 2019,company_id,Foreign key missing,CRITICAL
+profitandloss,ULTRACEMCO,Mar 2020,company_id,Foreign key missing,CRITICAL
+profitandloss,ULTRACEMCO,Mar 2021,company_id,Foreign key missing,CRITICAL
+profitandloss,ULTRACEMCO,Mar 2022,company_id,Foreign key missing,CRITICAL
+profitandloss,ULTRACEMCO,Mar 2023,company_id,Foreign key missing,CRITICAL
+profitandloss,ULTRACEMCO,Mar 2024,company_id,Foreign key missing,CRITICAL
+profitandloss,ULTRACEMCO,TTM,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,Mar 2013,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,Mar 2014,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,Mar 2015,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,Mar 2016,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,Mar 2017,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,Mar 2018,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,Mar 2019,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,Mar 2020,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,Mar 2021,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,Mar 2022,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,Mar 2023,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,Mar 2024,company_id,Foreign key missing,CRITICAL
+profitandloss,UNIONBANK,TTM,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,Mar 2013,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,Mar 2014,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,Mar 2015,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,Mar 2016,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,Mar 2017,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,Mar 2018,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,Mar 2019,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,Mar 2020,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,Mar 2021,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,Mar 2022,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,Mar 2023,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,Mar 2024,company_id,Foreign key missing,CRITICAL
+profitandloss,UNITDSPR,TTM,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,Dec 2012,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,Dec 2013,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,Dec 2014,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,Dec 2015,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,Dec 2016,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,Dec 2017,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,Dec 2018,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,Dec 2019,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,Dec 2020,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,Dec 2021,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,Dec 2022,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,Dec 2023,company_id,Foreign key missing,CRITICAL
+profitandloss,VBL,TTM,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,Mar 2013,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,Mar 2014,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,Mar 2015,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,Mar 2016,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,Mar 2017,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,Mar 2018,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,Mar 2019,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,Mar 2020,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,Mar 2021,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,Mar 2022,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,Mar 2023,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,Mar 2024,company_id,Foreign key missing,CRITICAL
+profitandloss,VEDL,TTM,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,Mar 2013,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,Mar 2014,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,Mar 2015,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,Mar 2016,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,Mar 2017,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,Mar 2018,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,Mar 2019,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,Mar 2020,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,Mar 2021,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,Mar 2022,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,Mar 2023,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,Mar 2024,company_id,Foreign key missing,CRITICAL
+profitandloss,WIPRO,TTM,company_id,Foreign key missing,CRITICAL
+profitandloss,ZOMATO,Mar 2018,company_id,Foreign key missing,CRITICAL
+profitandloss,ZOMATO,Mar 2019,company_id,Foreign key missing,CRITICAL
+profitandloss,ZOMATO,Mar 2020,company_id,Foreign key missing,CRITICAL
+profitandloss,ZOMATO,Mar 2021,company_id,Foreign key missing,CRITICAL
+profitandloss,ZOMATO,Mar 2022,company_id,Foreign key missing,CRITICAL
+profitandloss,ZOMATO,Mar 2023,company_id,Foreign key missing,CRITICAL
+profitandloss,ZOMATO,Mar 2024,company_id,Foreign key missing,CRITICAL
+profitandloss,ZOMATO,TTM,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,Mar 2013,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,Mar 2014,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,Mar 2015,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,Mar 2016,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,Mar 2017,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,Mar 2018,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,Mar 2019,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,Mar 2020,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,Mar 2021,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,Mar 2022,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,Mar 2023,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,Mar 2024,company_id,Foreign key missing,CRITICAL
+profitandloss,ZYDUSLIFE,TTM,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2013,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2014,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2015,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2016,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2017,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2018,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2019,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2020,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2021,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2022,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2023,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2024,company_id,Foreign key missing,CRITICAL
+balancesheet,ZYDUSLIFE,2024.5,company_id,Foreign key missing,CRITICAL
+balancesheet,ZOMATO,2018,company_id,Foreign key missing,CRITICAL
+balancesheet,ZOMATO,2019,company_id,Foreign key missing,CRITICAL
+balancesheet,ZOMATO,2020,company_id,Foreign key missing,CRITICAL
+balancesheet,ZOMATO,2021,company_id,Foreign key missing,CRITICAL
+balancesheet,ZOMATO,2022,company_id,Foreign key missing,CRITICAL
+balancesheet,ZOMATO,2023,company_id,Foreign key missing,CRITICAL
+balancesheet,ZOMATO,2024,company_id,Foreign key missing,CRITICAL
+balancesheet,ZOMATO,2024.5,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2013,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2014,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2015,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2016,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2017,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2018,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2019,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2020,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2021,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2022,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2023,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2024,company_id,Foreign key missing,CRITICAL
+balancesheet,WIPRO,2024.5,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2013,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2014,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2015,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2016,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2017,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2018,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2019,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2020,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2021,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2022,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2023,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2024,company_id,Foreign key missing,CRITICAL
+balancesheet,VEDL,2024.5,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2013,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2014,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2015,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2016,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2017,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2018,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2019,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2020,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2021,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2022,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2023,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2024,company_id,Foreign key missing,CRITICAL
+balancesheet,UNITDSPR,2024.5,company_id,Foreign key missing,CRITICAL
+balancesheet,UNIONBANK,Mar 2013,company_id,Foreign key missing,CRITICAL
+balancesheet,UNIONBANK,Mar 2014,company_id,Foreign key missing,CRITICAL
+balancesheet,UNIONBANK,Mar 2015,company_id,Foreign key missing,CRITICAL
+balancesheet,UNIONBANK,Mar 2016,company_id,Foreign key missing,CRITICAL
+balancesheet,UNIONBANK,Mar 2017,company_id,Foreign key missing,CRITICAL
+balancesheet,UNIONBANK,Mar 2018,company_id,Foreign key missing,CRITICAL
+balancesheet,UNIONBANK,Mar 2019,company_id,Foreign key missing,CRITICAL
+balancesheet,UNIONBANK,Mar 2020,company_id,Foreign key missing,CRITICAL
+balancesheet,UNIONBANK,Mar 2021,company_id,Foreign key missing,CRITICAL
+balancesheet,UNIONBANK,Mar 2022,company_id,Foreign key missing,CRITICAL
+balancesheet,UNIONBANK,Mar 2023,company_id,Foreign key missing,CRITICAL
+balancesheet,UNIONBANK,Mar 2024,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Mar 2013,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Mar 2014,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Mar 2015,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Mar 2016,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Mar 2017,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Mar 2018,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Mar 2019,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Mar 2020,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Mar 2021,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Mar 2022,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Mar 2023,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Mar 2024,company_id,Foreign key missing,CRITICAL
+balancesheet,ULTRACEMCO,Sep 2024,company_id,Foreign key missing,CRITICAL
+cashflow,AGTL,Mar 2018,company_id,Foreign key missing,CRITICAL
+cashflow,AGTL,Mar 2019,company_id,Foreign key missing,CRITICAL
+cashflow,AGTL,Mar 2020,company_id,Foreign key missing,CRITICAL
+cashflow,AGTL,Mar 2021,company_id,Foreign key missing,CRITICAL
+cashflow,AGTL,Mar 2022,company_id,Foreign key missing,CRITICAL
+cashflow,AGTL,Mar 2023,company_id,Foreign key missing,CRITICAL
+cashflow,AGTL,Mar 2024,company_id,Foreign key missing,CRITICAL
+cashflow,ULTRACEMCO,Mar 2013,company_id,Foreign key missing,CRITICAL
+cashflow,ULTRACEMCO,Mar 2014,company_id,Foreign key missing,CRITICAL
+cashflow,ULTRACEMCO,Mar 2015,company_id,Foreign key missing,CRITICAL
+cashflow,ULTRACEMCO,Mar 2016,company_id,Foreign key missing,CRITICAL
+cashflow,ULTRACEMCO,Mar 2017,company_id,Foreign key missing,CRITICAL
+cashflow,ULTRACEMCO,Mar 2018,company_id,Foreign key missing,CRITICAL
+cashflow,ULTRACEMCO,Mar 2019,company_id,Foreign key missing,CRITICAL
+cashflow,ULTRACEMCO,Mar 2020,company_id,Foreign key missing,CRITICAL
+cashflow,ULTRACEMCO,Mar 2021,company_id,Foreign key missing,CRITICAL
+cashflow,ULTRACEMCO,Mar 2022,company_id,Foreign key missing,CRITICAL
+cashflow,ULTRACEMCO,Mar 2023,company_id,Foreign key missing,CRITICAL
+cashflow,ULTRACEMCO,Mar 2024,company_id,Foreign key missing,CRITICAL
+cashflow,UNIONBANK,Mar 2013,company_id,Foreign key missing,CRITICAL
+cashflow,UNIONBANK,Mar 2014,company_id,Foreign key missing,CRITICAL
+cashflow,UNIONBANK,Mar 2015,company_id,Foreign key missing,CRITICAL
+cashflow,UNIONBANK,Mar 2016,company_id,Foreign key missing,CRITICAL
+cashflow,UNIONBANK,Mar 2017,company_id,Foreign key missing,CRITICAL
+cashflow,UNIONBANK,Mar 2018,company_id,Foreign key missing,CRITICAL
+cashflow,UNIONBANK,Mar 2019,company_id,Foreign key missing,CRITICAL
+cashflow,UNIONBANK,Mar 2020,company_id,Foreign key missing,CRITICAL
+cashflow,UNIONBANK,Mar 2021,company_id,Foreign key missing,CRITICAL
+cashflow,UNIONBANK,Mar 2022,company_id,Foreign key missing,CRITICAL
+cashflow,UNIONBANK,Mar 2023,company_id,Foreign key missing,CRITICAL
+cashflow,UNIONBANK,Mar 2024,company_id,Foreign key missing,CRITICAL
+cashflow,UNITDSPR,Mar 2013,company_id,Foreign key missing,CRITICAL
+cashflow,UNITDSPR,Mar 2014,company_id,Foreign key missing,CRITICAL
+cashflow,UNITDSPR,Mar 2015,company_id,Foreign key missing,CRITICAL
+cashflow,UNITDSPR,Mar 2016,company_id,Foreign key missing,CRITICAL
+cashflow,UNITDSPR,Mar 2017,company_id,Foreign key missing,CRITICAL
+cashflow,UNITDSPR,Mar 2018,company_id,Foreign key missing,CRITICAL
+cashflow,UNITDSPR,Mar 2019,company_id,Foreign key missing,CRITICAL
+cashflow,UNITDSPR,Mar 2020,company_id,Foreign key missing,CRITICAL
+cashflow,UNITDSPR,Mar 2021,company_id,Foreign key missing,CRITICAL
+cashflow,UNITDSPR,Mar 2022,company_id,Foreign key missing,CRITICAL
+cashflow,UNITDSPR,Mar 2023,company_id,Foreign key missing,CRITICAL
+cashflow,UNITDSPR,Mar 2024,company_id,Foreign key missing,CRITICAL
+cashflow,VBL,Dec 2012,company_id,Foreign key missing,CRITICAL
+cashflow,VBL,Dec 2013,company_id,Foreign key missing,CRITICAL
+cashflow,VBL,Dec 2014,company_id,Foreign key missing,CRITICAL
+cashflow,VBL,Dec 2015,company_id,Foreign key missing,CRITICAL
+cashflow,VBL,Dec 2016,company_id,Foreign key missing,CRITICAL
+cashflow,VBL,Dec 2017,company_id,Foreign key missing,CRITICAL
+cashflow,VBL,Dec 2018,company_id,Foreign key missing,CRITICAL
+cashflow,VBL,Dec 2019,company_id,Foreign key missing,CRITICAL
+cashflow,VBL,Dec 2020,company_id,Foreign key missing,CRITICAL
+cashflow,VBL,Dec 2021,company_id,Foreign key missing,CRITICAL
+cashflow,VBL,Dec 2022,company_id,Foreign key missing,CRITICAL
+cashflow,VBL,Dec 2023,company_id,Foreign key missing,CRITICAL
+cashflow,VEDL,Mar 2013,company_id,Foreign key missing,CRITICAL
+cashflow,VEDL,Mar 2014,company_id,Foreign key missing,CRITICAL
+cashflow,VEDL,Mar 2015,company_id,Foreign key missing,CRITICAL
+cashflow,VEDL,Mar 2016,company_id,Foreign key missing,CRITICAL
+cashflow,VEDL,Mar 2017,company_id,Foreign key missing,CRITICAL
+cashflow,VEDL,Mar 2018,company_id,Foreign key missing,CRITICAL
+cashflow,VEDL,Mar 2019,company_id,Foreign key missing,CRITICAL
+cashflow,VEDL,Mar 2020,company_id,Foreign key missing,CRITICAL
+cashflow,VEDL,Mar 2021,company_id,Foreign key missing,CRITICAL
+cashflow,VEDL,Mar 2022,company_id,Foreign key missing,CRITICAL
+cashflow,VEDL,Mar 2023,company_id,Foreign key missing,CRITICAL
+cashflow,VEDL,Mar 2024,company_id,Foreign key missing,CRITICAL
+cashflow,WIPRO,Mar 2013,company_id,Foreign key missing,CRITICAL
+cashflow,WIPRO,Mar 2014,company_id,Foreign key missing,CRITICAL
+cashflow,WIPRO,Mar 2015,company_id,Foreign key missing,CRITICAL
+cashflow,WIPRO,Mar 2016,company_id,Foreign key missing,CRITICAL
+cashflow,WIPRO,Mar 2017,company_id,Foreign key missing,CRITICAL
+cashflow,WIPRO,Mar 2018,company_id,Foreign key missing,CRITICAL
+cashflow,WIPRO,Mar 2019,company_id,Foreign key missing,CRITICAL
+cashflow,WIPRO,Mar 2020,company_id,Foreign key missing,CRITICAL
+cashflow,WIPRO,Mar 2021,company_id,Foreign key missing,CRITICAL
+cashflow,WIPRO,Mar 2022,company_id,Foreign key missing,CRITICAL
+cashflow,WIPRO,Mar 2023,company_id,Foreign key missing,CRITICAL
+cashflow,WIPRO,Mar 2024,company_id,Foreign key missing,CRITICAL
+cashflow,ZOMATO,Mar 2020,company_id,Foreign key missing,CRITICAL
+cashflow,ZOMATO,Mar 2021,company_id,Foreign key missing,CRITICAL
+cashflow,ZOMATO,Mar 2022,company_id,Foreign key missing,CRITICAL
+cashflow,ZOMATO,Mar 2023,company_id,Foreign key missing,CRITICAL
+cashflow,ZOMATO,Mar 2024,company_id,Foreign key missing,CRITICAL
+cashflow,ZYDUSLIFE,Mar 2013,company_id,Foreign key missing,CRITICAL
+cashflow,ZYDUSLIFE,Mar 2014,company_id,Foreign key missing,CRITICAL
+cashflow,ZYDUSLIFE,Mar 2015,company_id,Foreign key missing,CRITICAL
+cashflow,ZYDUSLIFE,Mar 2016,company_id,Foreign key missing,CRITICAL
+cashflow,ZYDUSLIFE,Mar 2017,company_id,Foreign key missing,CRITICAL
+cashflow,ZYDUSLIFE,Mar 2018,company_id,Foreign key missing,CRITICAL
+cashflow,ZYDUSLIFE,Mar 2019,company_id,Foreign key missing,CRITICAL
+cashflow,ZYDUSLIFE,Mar 2020,company_id,Foreign key missing,CRITICAL
+cashflow,ZYDUSLIFE,Mar 2021,company_id,Foreign key missing,CRITICAL
+cashflow,ZYDUSLIFE,Mar 2022,company_id,Foreign key missing,CRITICAL
+cashflow,ZYDUSLIFE,Mar 2023,company_id,Foreign key missing,CRITICAL
+cashflow,ZYDUSLIFE,Mar 2024,company_id,Foreign key missing,CRITICAL
+analysis,WIPRO,,company_id,Foreign key missing,CRITICAL
+analysis,WIPRO,,company_id,Foreign key missing,CRITICAL
+analysis,WIPRO,,company_id,Foreign key missing,CRITICAL
+analysis,WIPRO,,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2024,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2023,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2022,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2021,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2020,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2019,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2018,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2017,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2016,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2015,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2014,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2013,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2012,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2011,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2010,company_id,Foreign key missing,CRITICAL
+documents,ULTRACEMCO,2009,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2024,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2023,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2022,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2021,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2020,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2019,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2018,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2017,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2016,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2015,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2014,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2013,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2012,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2011,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2010,company_id,Foreign key missing,CRITICAL
+documents,UNIONBANK,2009,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2024,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2023,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2022,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2021,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2020,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2019,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2018,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2017,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2016,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2015,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2014,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2013,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2012,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2011,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2010,company_id,Foreign key missing,CRITICAL
+documents,UNITDSPR,2009,company_id,Foreign key missing,CRITICAL
+documents,VBL,2024,company_id,Foreign key missing,CRITICAL
+documents,VBL,2023,company_id,Foreign key missing,CRITICAL
+documents,VBL,2022,company_id,Foreign key missing,CRITICAL
+documents,VBL,2021,company_id,Foreign key missing,CRITICAL
+documents,VBL,2020,company_id,Foreign key missing,CRITICAL
+documents,VBL,2019,company_id,Foreign key missing,CRITICAL
+documents,VBL,2018,company_id,Foreign key missing,CRITICAL
+documents,VBL,2017,company_id,Foreign key missing,CRITICAL
+documents,VBL,2016,company_id,Foreign key missing,CRITICAL
+documents,VBL,2015,company_id,Foreign key missing,CRITICAL
+documents,VBL,2014,company_id,Foreign key missing,CRITICAL
+documents,VBL,2013,company_id,Foreign key missing,CRITICAL
+documents,VBL,2012,company_id,Foreign key missing,CRITICAL
+documents,VBL,2011,company_id,Foreign key missing,CRITICAL
+documents,VBL,2010,company_id,Foreign key missing,CRITICAL
+documents,VBL,2009,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2024,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2023,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2022,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2021,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2020,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2019,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2018,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2017,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2016,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2015,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2014,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2013,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2012,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2011,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2010,company_id,Foreign key missing,CRITICAL
+documents,VEDL,2009,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2024,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2023,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2022,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2021,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2020,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2019,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2018,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2017,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2016,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2015,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2014,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2013,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2012,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2011,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2010,company_id,Foreign key missing,CRITICAL
+documents,WIPRO,2009,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2024,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2023,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2022,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2021,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2020,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2019,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2018,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2017,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2016,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2015,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2014,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2013,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2012,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2011,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2010,company_id,Foreign key missing,CRITICAL
+documents,ZOMATO,2009,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2024,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2023,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2022,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2021,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2020,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2019,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2018,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2017,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2016,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2015,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2014,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2013,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2012,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2011,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2010,company_id,Foreign key missing,CRITICAL
+documents,ZYDUSLIFE,2009,company_id,Foreign key missing,CRITICAL
+prosandcons,WIPRO,,company_id,Foreign key missing,CRITICAL
+prosandcons,WIPRO,,company_id,Foreign key missing,CRITICAL
+profitandloss,ADANIENSOL,Mar 2014,sales,Sales must be > 0,CRITICAL
+profitandloss,ADANIENSOL,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,AXISBANK,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BAJFINANCE,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BAJFINANCE,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BAJFINANCE,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BAJFINANCE,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BAJFINANCE,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BAJFINANCE,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BAJFINANCE,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BAJFINANCE,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BAJFINANCE,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BAJFINANCE,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BAJFINANCE,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,BANKBARODA,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CANBK,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CHOLAFIN,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,CIPLA,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,COALINDIA,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCBANK,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HDFCLIFE,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HEROMOTOCO,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HEROMOTOCO,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HEROMOTOCO,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HEROMOTOCO,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HEROMOTOCO,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HEROMOTOCO,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HEROMOTOCO,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HEROMOTOCO,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HEROMOTOCO,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HEROMOTOCO,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HEROMOTOCO,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HEROMOTOCO,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDALCO,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,HINDUNILVR,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIBANK,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIGI,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,ICICIPRULI,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDUSINDBK,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,JIOFIN,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,KOTAKBANK,TTM,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,SUNPHARMA,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,Mar 2013,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,Mar 2014,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,Mar 2015,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,Mar 2016,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,Mar 2017,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,Mar 2018,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,Mar 2019,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,Mar 2020,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,Mar 2021,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,Mar 2022,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,Mar 2023,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,Mar 2024,opm_percentage,OPM mismatch >1%,WARNING
+profitandloss,INDIGO,TTM,opm_percentage,OPM mismatch >1%,WARNING
+cashflow,TVSMOTOR,Mar 2022,net_cash_flow,Cashflow mismatch >10,WARNING

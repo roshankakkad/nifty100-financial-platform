@@ -1,0 +1,13 @@
+table,rows_in,rows_loaded,rejected,status,error,timestamp
+companies,92,92,0,SUCCESS,,2026-06-22 01:10:11
+profitandloss,1276,1276,0,SUCCESS,,2026-06-22 01:10:11
+balancesheet,1312,1312,0,SUCCESS,,2026-06-22 01:10:11
+cashflow,1187,1187,0,SUCCESS,,2026-06-22 01:10:11
+analysis,20,20,0,SUCCESS,,2026-06-22 01:10:11
+documents,1585,1585,0,SUCCESS,,2026-06-22 01:10:11
+prosandcons,16,16,0,SUCCESS,,2026-06-22 01:10:11
+sectors,92,92,0,SUCCESS,,2026-06-22 01:10:12
+stock_prices,5520,5520,0,SUCCESS,,2026-06-22 01:10:12
+market_cap,552,552,0,SUCCESS,,2026-06-22 01:10:12
+financial_ratios,1184,1184,0,SUCCESS,,2026-06-22 01:10:12
+peer_groups,56,56,0,SUCCESS,,2026-06-22 01:10:12

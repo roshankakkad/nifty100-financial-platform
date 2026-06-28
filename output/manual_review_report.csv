@@ -1,0 +1,6 @@
+company,exists_in_companies,pnl_rows,balancesheet_rows,cashflow_rows,pnl_missing_values,bs_missing_values,cf_missing_values,review_status
+TCS,True,13,13,24,2,0,0,PASS
+RELIANCE,True,13,13,12,2,0,0,PASS
+INFY,True,13,13,12,3,0,0,PASS
+HDFCBANK,True,13,12,12,2,0,0,PASS
+SBIN,True,13,0,12,2,0,0,PASS
