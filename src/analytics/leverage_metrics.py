@@ -103,7 +103,7 @@ def main():
     ]
 
     OUTPUT_PATH.mkdir(exist_ok=True)
-    result.to_csv(OUTPUT_PATH / "day09_ratios.csv", index=False)
+    result.to_csv(OUTPUT_PATH / "leverage_metrics.csv", index=False)
 
     print("Day 09 completed")
     print(result.head())

@@ -45,7 +45,7 @@ def main():
 
     df = pd.DataFrame(results)
     OUTPUT_PATH.mkdir(exist_ok=True)
-    df.to_csv(OUTPUT_PATH / "day10_cagr.csv", index=False)
+    df.to_csv(OUTPUT_PATH / "growth_metrics.csv", index=False)
 
     print("Day 10 completed")
     print(df.head())

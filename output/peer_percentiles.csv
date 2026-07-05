@@ -1,0 +1,561 @@
+company_id,peer_group_name,metric,value,percentile_rank,year
+MARUTI,Automobiles,return_on_equity_pct,15.750385351954785,0.0,Mar 2024
+TATAMOTORS,Automobiles,return_on_equity_pct,37.45613415294755,1.0,Mar 2024
+M&M,Automobiles,return_on_equity_pct,18.537543435564285,0.16666666666666666,Mar 2024
+BAJAJ-AUTO,Automobiles,return_on_equity_pct,26.61418410330778,0.8333333333333331,Mar 2024
+EICHERMOT,Automobiles,return_on_equity_pct,22.172346910501524,0.49999999999999994,Mar 2024
+HEROMOTOCO,Automobiles,return_on_equity_pct,21.14243742584327,0.3333333333333333,Mar 2024
+TVSMOTOR,Automobiles,return_on_equity_pct,26.223466981132077,0.6666666666666666,Mar 2024
+MARUTI,Automobiles,return_on_capital_employed_pct,15.59092764270305,0.3333333333333333,Mar 2024
+TATAMOTORS,Automobiles,return_on_capital_employed_pct,16.79050889790821,0.49999999999999994,Mar 2024
+M&M,Automobiles,return_on_capital_employed_pct,11.535315751242587,0.0,Mar 2024
+BAJAJ-AUTO,Automobiles,return_on_capital_employed_pct,27.207358942799765,0.8333333333333331,Mar 2024
+EICHERMOT,Automobiles,return_on_capital_employed_pct,20.206889081455806,0.6666666666666666,Mar 2024
+HEROMOTOCO,Automobiles,return_on_capital_employed_pct,173.7066375307293,1.0,Mar 2024
+TVSMOTOR,Automobiles,return_on_capital_employed_pct,13.799939005794448,0.16666666666666666,Mar 2024
+MARUTI,Automobiles,net_profit_margin_pct,9.50809964894472,0.49999999999999994,Mar 2024
+TATAMOTORS,Automobiles,net_profit_margin_pct,7.263066074788551,0.16666666666666666,Mar 2024
+M&M,Automobiles,net_profit_margin_pct,8.82238743726542,0.3333333333333333,Mar 2024
+BAJAJ-AUTO,Automobiles,net_profit_margin_pct,17.178515712057056,0.8333333333333331,Mar 2024
+EICHERMOT,Automobiles,net_profit_margin_pct,24.195694242864054,1.0,Mar 2024
+HEROMOTOCO,Automobiles,net_profit_margin_pct,9.902352536452407,0.6666666666666666,Mar 2024
+TVSMOTOR,Automobiles,net_profit_margin_pct,4.544641716694342,0.0,Mar 2024
+MARUTI,Automobiles,debt_to_equity,0.001389602503619973,1.0,Mar 2024
+TATAMOTORS,Automobiles,debt_to_equity,1.2631244259167667,0.33333333333333337,Mar 2024
+M&M,Automobiles,debt_to_equity,1.6414413053331318,0.16666666666666685,Mar 2024
+BAJAJ-AUTO,Automobiles,debt_to_equity,0.06601754022512257,0.5,Mar 2024
+EICHERMOT,Automobiles,debt_to_equity,0.023219728456636186,0.8333333333333334,Mar 2024
+HEROMOTOCO,Automobiles,debt_to_equity,0.03423922255494661,0.6666666666666667,Mar 2024
+TVSMOTOR,Automobiles,debt_to_equity,3.833431603773585,0.0,Mar 2024
+MARUTI,Automobiles,free_cash_flow_cr,4936.0,0.6666666666666666,Mar 2024
+TATAMOTORS,Automobiles,free_cash_flow_cr,45133.0,1.0,Mar 2024
+M&M,Automobiles,free_cash_flow_cr,-11245.0,0.0,Mar 2024
+BAJAJ-AUTO,Automobiles,free_cash_flow_cr,6486.0,0.8333333333333331,Mar 2024
+EICHERMOT,Automobiles,free_cash_flow_cr,890.0,0.3333333333333333,Mar 2024
+HEROMOTOCO,Automobiles,free_cash_flow_cr,3095.0,0.49999999999999994,Mar 2024
+TVSMOTOR,Automobiles,free_cash_flow_cr,-2254.0,0.16666666666666666,Mar 2024
+MARUTI,Automobiles,pat_cagr_5yr,12.007182039300378,0.4,Mar 2024
+TATAMOTORS,Automobiles,pat_cagr_5yr,,0.5,Mar 2024
+M&M,Automobiles,pat_cagr_5yr,15.316887061047968,0.8,Mar 2024
+BAJAJ-AUTO,Automobiles,pat_cagr_5yr,9.358917170384974,0.19999999999999998,Mar 2024
+EICHERMOT,Automobiles,pat_cagr_5yr,12.675841665377696,0.6,Mar 2024
+HEROMOTOCO,Automobiles,pat_cagr_5yr,1.5441818871883894,0.0,Mar 2024
+TVSMOTOR,Automobiles,pat_cagr_5yr,19.665122106676503,1.0,Mar 2024
+MARUTI,Automobiles,revenue_cagr_5yr,10.510215112642584,0.6666666666666666,Mar 2024
+TATAMOTORS,Automobiles,revenue_cagr_5yr,7.7201595386239275,0.3333333333333333,Mar 2024
+M&M,Automobiles,revenue_cagr_5yr,5.838805854237616,0.16666666666666666,Mar 2024
+BAJAJ-AUTO,Automobiles,revenue_cagr_5yr,8.127604751021389,0.49999999999999994,Mar 2024
+EICHERMOT,Automobiles,revenue_cagr_5yr,11.036936496739692,0.8333333333333331,Mar 2024
+HEROMOTOCO,Automobiles,revenue_cagr_5yr,2.1530677970544643,0.0,Mar 2024
+TVSMOTOR,Automobiles,revenue_cagr_5yr,14.192387704277065,1.0,Mar 2024
+MARUTI,Automobiles,eps_cagr_5yr,11.139222486886503,0.4,Mar 2024
+TATAMOTORS,Automobiles,eps_cagr_5yr,,0.5,Mar 2024
+M&M,Automobiles,eps_cagr_5yr,16.175509914303852,0.8,Mar 2024
+BAJAJ-AUTO,Automobiles,eps_cagr_5yr,10.177276348465591,0.19999999999999998,Mar 2024
+EICHERMOT,Automobiles,eps_cagr_5yr,12.505451629050324,0.6,Mar 2024
+HEROMOTOCO,Automobiles,eps_cagr_5yr,1.6863437197464748,0.0,Mar 2024
+TVSMOTOR,Automobiles,eps_cagr_5yr,19.13578981670916,1.0,Mar 2024
+MARUTI,Automobiles,interest_coverage,117.90721649484536,0.8333333333333331,Mar 2024
+TATAMOTORS,Automobiles,interest_coverage,6.530242339274985,0.3333333333333333,Mar 2024
+M&M,Automobiles,interest_coverage,3.7646901709401708,0.16666666666666666,Mar 2024
+BAJAJ-AUTO,Automobiles,interest_coverage,174.41666666666666,1.0,Mar 2024
+EICHERMOT,Automobiles,interest_coverage,114.70588235294117,0.6666666666666666,Mar 2024
+HEROMOTOCO,Automobiles,interest_coverage,47.268505079825836,0.49999999999999994,Mar 2024
+TVSMOTOR,Automobiles,interest_coverage,2.9076763485477177,0.0,Mar 2024
+MARUTI,Automobiles,asset_turnover,1.230295566502463,0.8333333333333331,Mar 2024
+TATAMOTORS,Automobiles,asset_turnover,1.1851234435931923,0.6666666666666666,Mar 2024
+M&M,Automobiles,asset_turnover,0.5925222177725139,0.0,Mar 2024
+BAJAJ-AUTO,Automobiles,asset_turnover,1.1404534363562424,0.49999999999999994,Mar 2024
+EICHERMOT,Automobiles,asset_turnover,0.7153796236210254,0.16666666666666666,Mar 2024
+HEROMOTOCO,Automobiles,asset_turnover,1.4449202768324858,1.0,Mar 2024
+TVSMOTOR,Automobiles,asset_turnover,0.931491528650295,0.3333333333333333,Mar 2024
+BAJFINANCE,Consumer Finance,return_on_equity_pct,18.841921351830603,1.0,Mar 2024
+CHOLAFIN,Consumer Finance,return_on_equity_pct,17.455213596692694,0.49999999999999994,Mar 2024
+SHRIRAMFIN,Consumer Finance,return_on_equity_pct,15.116350338120824,0.0,Mar 2024
+BAJFINANCE,Consumer Finance,return_on_capital_employed_pct,4.166013587646808,1.0,Mar 2024
+CHOLAFIN,Consumer Finance,return_on_capital_employed_pct,3.3666952254848512,0.0,Mar 2024
+SHRIRAMFIN,Consumer Finance,return_on_capital_employed_pct,4.0643421983857175,0.49999999999999994,Mar 2024
+BAJFINANCE,Consumer Finance,net_profit_margin_pct,26.287928399912687,1.0,Mar 2024
+CHOLAFIN,Consumer Finance,net_profit_margin_pct,17.846892448990243,0.0,Mar 2024
+SHRIRAMFIN,Consumer Finance,net_profit_margin_pct,20.333626470264925,0.49999999999999994,Mar 2024
+BAJFINANCE,Consumer Finance,debt_to_equity,3.824788776468134,1.0,Mar 2024
+CHOLAFIN,Consumer Finance,debt_to_equity,6.863420609401317,0.0,Mar 2024
+SHRIRAMFIN,Consumer Finance,debt_to_equity,3.994034363699512,0.5,Mar 2024
+BAJFINANCE,Consumer Finance,free_cash_flow_cr,-79931.0,0.0,Mar 2024
+CHOLAFIN,Consumer Finance,free_cash_flow_cr,-38538.0,0.49999999999999994,Mar 2024
+SHRIRAMFIN,Consumer Finance,free_cash_flow_cr,-31359.0,1.0,Mar 2024
+BAJFINANCE,Consumer Finance,pat_cagr_5yr,29.323134825979015,1.0,Mar 2024
+CHOLAFIN,Consumer Finance,pat_cagr_5yr,23.363417251672082,0.0,Mar 2024
+SHRIRAMFIN,Consumer Finance,pat_cagr_5yr,23.49387942502037,0.49999999999999994,Mar 2024
+BAJFINANCE,Consumer Finance,revenue_cagr_5yr,24.352642739542006,1.0,Mar 2024
+CHOLAFIN,Consumer Finance,revenue_cagr_5yr,21.939164804975263,0.49999999999999994,Mar 2024
+SHRIRAMFIN,Consumer Finance,revenue_cagr_5yr,18.556070052776754,0.0,Mar 2024
+BAJFINANCE,Consumer Finance,eps_cagr_5yr,27.5561392815338,1.0,Mar 2024
+CHOLAFIN,Consumer Finance,eps_cagr_5yr,22.275238764557947,0.49999999999999994,Mar 2024
+SHRIRAMFIN,Consumer Finance,eps_cagr_5yr,14.289655141156077,0.0,Mar 2024
+BAJFINANCE,Consumer Finance,interest_coverage,2689.1666666666665,1.0,Mar 2024
+CHOLAFIN,Consumer Finance,interest_coverage,21.211764705882352,0.49999999999999994,Mar 2024
+SHRIRAMFIN,Consumer Finance,interest_coverage,0.6766743648960739,0.0,Mar 2024
+BAJFINANCE,Consumer Finance,asset_turnover,0.14630251608816688,0.49999999999999994,Mar 2024
+CHOLAFIN,Consumer Finance,asset_turnover,0.12230192869816066,0.0,Mar 2024
+SHRIRAMFIN,Consumer Finance,asset_turnover,0.14656859980827017,1.0,Mar 2024
+HINDUNILVR,FMCG,return_on_equity_pct,20.074973642078955,0.49999999999999994,Mar 2024
+ITC,FMCG,return_on_equity_pct,27.851074395694365,0.6666666666666666,Mar 2024
+BRITANNIA,FMCG,return_on_equity_pct,54.14869322506978,0.8333333333333331,Mar 2024
+DABUR,FMCG,return_on_equity_pct,18.355969997972835,0.3333333333333333,Mar 2024
+NESTLEIND,FMCG,return_on_equity_pct,117.75449101796407,1.0,Mar 2024
+GODREJCP,FMCG,return_on_equity_pct,-4.45308779171297,0.0,Mar 2024
+TATACONSUM,FMCG,return_on_equity_pct,7.566793298872766,0.16666666666666666,Mar 2024
+HINDUNILVR,FMCG,return_on_capital_employed_pct,87.32306174338734,0.8333333333333331,Mar 2024
+ITC,FMCG,return_on_capital_employed_pct,32.63868466782516,0.49999999999999994,Mar 2024
+BRITANNIA,FMCG,return_on_capital_employed_pct,47.735597735597736,0.6666666666666666,Mar 2024
+DABUR,FMCG,return_on_capital_employed_pct,17.816757189920754,0.3333333333333333,Mar 2024
+NESTLEIND,FMCG,return_on_capital_employed_pct,143.14789687924016,1.0,Mar 2024
+GODREJCP,FMCG,return_on_capital_employed_pct,17.168141592920357,0.16666666666666666,Mar 2024
+TATACONSUM,FMCG,return_on_capital_employed_pct,9.762465444865363,0.0,Mar 2024
+HINDUNILVR,FMCG,net_profit_margin_pct,16.611735814915342,0.8333333333333331,Mar 2024
+ITC,FMCG,net_profit_margin_pct,29.282025230717128,1.0,Mar 2024
+BRITANNIA,FMCG,net_profit_margin_pct,12.725863199952292,0.3333333333333333,Mar 2024
+DABUR,FMCG,net_profit_margin_pct,14.600128990648178,0.49999999999999994,Mar 2024
+NESTLEIND,FMCG,net_profit_margin_pct,16.12281708616873,0.6666666666666666,Mar 2024
+GODREJCP,FMCG,net_profit_margin_pct,-3.9798524404086266,0.0,Mar 2024
+TATACONSUM,FMCG,net_profit_margin_pct,7.9902669998684726,0.16666666666666666,Mar 2024
+HINDUNILVR,FMCG,debt_to_equity,0.028974188761763442,0.8333333333333334,Mar 2024
+ITC,FMCG,debt_to_equity,0.004066731984914169,1.0,Mar 2024
+BRITANNIA,FMCG,debt_to_equity,0.5239786856127886,0.0,Mar 2024
+DABUR,FMCG,debt_to_equity,0.13835394283397526,0.5,Mar 2024
+NESTLEIND,FMCG,debt_to_equity,0.10329341317365269,0.6666666666666667,Mar 2024
+GODREJCP,FMCG,debt_to_equity,0.2557548817272583,0.16666666666666685,Mar 2024
+TATACONSUM,FMCG,debt_to_equity,0.21654107242947002,0.33333333333333337,Mar 2024
+HINDUNILVR,FMCG,free_cash_flow_cr,10145.0,0.8333333333333331,Mar 2024
+ITC,FMCG,free_cash_flow_cr,18742.0,1.0,Mar 2024
+BRITANNIA,FMCG,free_cash_flow_cr,3050.0,0.6666666666666666,Mar 2024
+DABUR,FMCG,free_cash_flow_cr,1042.0,0.3333333333333333,Mar 2024
+NESTLEIND,FMCG,free_cash_flow_cr,2938.0,0.49999999999999994,Mar 2024
+GODREJCP,FMCG,free_cash_flow_cr,-1365.0,0.0,Mar 2024
+TATACONSUM,FMCG,free_cash_flow_cr,26.0,0.16666666666666666,Mar 2024
+HINDUNILVR,FMCG,pat_cagr_5yr,11.152950436803422,0.4,Mar 2024
+ITC,FMCG,pat_cagr_5yr,10.083407558317958,0.19999999999999998,Mar 2024
+BRITANNIA,FMCG,pat_cagr_5yr,13.063515827454196,0.6,Mar 2024
+DABUR,FMCG,pat_cagr_5yr,4.604418961155621,0.0,Mar 2024
+NESTLEIND,FMCG,pat_cagr_5yr,14.852319512993839,0.8,Mar 2024
+GODREJCP,FMCG,pat_cagr_5yr,,0.5,Mar 2024
+TATACONSUM,FMCG,pat_cagr_5yr,21.59956338772886,1.0,Mar 2024
+HINDUNILVR,FMCG,revenue_cagr_5yr,9.504485244074123,0.6666666666666666,Mar 2024
+ITC,FMCG,revenue_cagr_5yr,7.950896846254429,0.3333333333333333,Mar 2024
+BRITANNIA,FMCG,revenue_cagr_5yr,8.690023727476138,0.49999999999999994,Mar 2024
+DABUR,FMCG,revenue_cagr_5yr,7.814065037783324,0.16666666666666666,Mar 2024
+NESTLEIND,FMCG,revenue_cagr_5yr,14.548573711802671,0.8333333333333331,Mar 2024
+GODREJCP,FMCG,revenue_cagr_5yr,6.447080048592069,0.0,Mar 2024
+TATACONSUM,FMCG,revenue_cagr_5yr,15.96086282879563,1.0,Mar 2024
+HINDUNILVR,FMCG,eps_cagr_5yr,9.460878422315755,0.19999999999999998,Mar 2024
+ITC,FMCG,eps_cagr_5yr,9.856054330611785,0.4,Mar 2024
+BRITANNIA,FMCG,eps_cagr_5yr,13.14353769849137,0.6,Mar 2024
+DABUR,FMCG,eps_cagr_5yr,4.563955259127317,0.0,Mar 2024
+NESTLEIND,FMCG,eps_cagr_5yr,15.43852585822143,1.0,Mar 2024
+GODREJCP,FMCG,eps_cagr_5yr,,0.5,Mar 2024
+TATACONSUM,FMCG,eps_cagr_5yr,14.869835499703509,0.8,Mar 2024
+HINDUNILVR,FMCG,interest_coverage,57.847001223990205,0.8333333333333331,Mar 2024
+ITC,FMCG,interest_coverage,362.9625,1.0,Mar 2024
+BRITANNIA,FMCG,interest_coverage,20.597560975609756,0.16666666666666666,Mar 2024
+DABUR,FMCG,interest_coverage,23.241935483870968,0.3333333333333333,Mar 2024
+NESTLEIND,FMCG,interest_coverage,41.186206896551724,0.6666666666666666,Mar 2024
+GODREJCP,FMCG,interest_coverage,2.412903225806452,0.0,Mar 2024
+TATACONSUM,FMCG,interest_coverage,25.32183908045977,0.49999999999999994,Mar 2024
+HINDUNILVR,FMCG,asset_turnover,0.7885945801322478,0.49999999999999994,Mar 2024
+ITC,FMCG,asset_turnover,0.7723477995509732,0.3333333333333333,Mar 2024
+BRITANNIA,FMCG,asset_turnover,1.8484347442680775,0.8333333333333331,Mar 2024
+DABUR,FMCG,asset_turnover,0.8205874569992061,0.6666666666666666,Mar 2024
+NESTLEIND,FMCG,asset_turnover,2.318160220469448,1.0,Mar 2024
+GODREJCP,FMCG,asset_turnover,0.7664201826881253,0.16666666666666666,Mar 2024
+TATACONSUM,FMCG,asset_turnover,0.5454284586965099,0.0,Mar 2024
+TCS,IT Services,return_on_equity_pct,50.944313673485176,1.0,Mar 2024
+INFY,IT Services,return_on_equity_pct,29.788006718416632,0.7500000000000001,Mar 2024
+HCLTECH,IT Services,return_on_equity_pct,23.01393141233172,0.49999999999999994,Mar 2024
+TECHM,IT Services,return_on_equity_pct,8.987963553189097,0.0,Mar 2024
+LTIM,IT Services,return_on_equity_pct,22.904386052552702,0.25,Mar 2024
+TCS,IT Services,return_on_capital_employed_pct,60.2081007004365,1.0,Mar 2024
+INFY,IT Services,return_on_capital_employed_pct,32.906970717802544,0.7500000000000001,Mar 2024
+HCLTECH,IT Services,return_on_capital_employed_pct,27.05313357020305,0.49999999999999994,Mar 2024
+TECHM,IT Services,return_on_capital_employed_pct,9.207012257755256,0.0,Mar 2024
+LTIM,IT Services,return_on_capital_employed_pct,25.207116664403095,0.25,Mar 2024
+TCS,IT Services,net_profit_margin_pct,19.136712150207767,1.0,Mar 2024
+INFY,IT Services,net_profit_margin_pct,17.08075746730006,0.7500000000000001,Mar 2024
+HCLTECH,IT Services,net_profit_margin_pct,14.293122742532729,0.49999999999999994,Mar 2024
+TECHM,IT Services,net_profit_margin_pct,4.60996999769213,0.0,Mar 2024
+LTIM,IT Services,net_profit_margin_pct,12.90931103415266,0.25,Mar 2024
+TCS,IT Services,debt_to_equity,0.0886406082507266,0.75,Mar 2024
+INFY,IT Services,debt_to_equity,0.09486358890553362,0.5,Mar 2024
+HCLTECH,IT Services,debt_to_equity,0.08435023365512796,1.0,Mar 2024
+TECHM,IT Services,debt_to_equity,0.09512917619708275,0.2499999999999999,Mar 2024
+LTIM,IT Services,debt_to_equity,0.10345688880007993,0.0,Mar 2024
+TCS,IT Services,free_cash_flow_cr,50429.0,1.0,Mar 2024
+INFY,IT Services,free_cash_flow_cr,20117.0,0.7500000000000001,Mar 2024
+HCLTECH,IT Services,free_cash_flow_cr,15840.0,0.49999999999999994,Mar 2024
+TECHM,IT Services,free_cash_flow_cr,5058.0,0.25,Mar 2024
+LTIM,IT Services,free_cash_flow_cr,1752.0,0.0,Mar 2024
+TCS,IT Services,pat_cagr_5yr,7.871172131953608,0.25,Mar 2024
+INFY,IT Services,pat_cagr_5yr,11.239419983657939,0.7500000000000001,Mar 2024
+HCLTECH,IT Services,pat_cagr_5yr,9.194090295112023,0.49999999999999994,Mar 2024
+TECHM,IT Services,pat_cagr_5yr,-10.985163688218591,0.0,Mar 2024
+LTIM,IT Services,pat_cagr_5yr,24.775129058600996,1.0,Mar 2024
+TCS,IT Services,revenue_cagr_5yr,10.463614801716602,0.25,Mar 2024
+INFY,IT Services,revenue_cagr_5yr,13.199100930556229,0.7500000000000001,Mar 2024
+HCLTECH,IT Services,revenue_cagr_5yr,12.710299978373406,0.49999999999999994,Mar 2024
+TECHM,IT Services,revenue_cagr_5yr,8.398437919098868,0.0,Mar 2024
+LTIM,IT Services,revenue_cagr_5yr,30.32798083513346,1.0,Mar 2024
+TCS,IT Services,eps_cagr_5yr,8.618771612987096,0.25,Mar 2024
+INFY,IT Services,eps_cagr_5yr,12.474611314209483,1.0,Mar 2024
+HCLTECH,IT Services,eps_cagr_5yr,9.407036350794119,0.49999999999999994,Mar 2024
+TECHM,IT Services,eps_cagr_5yr,-11.416728965524282,0.0,Mar 2024
+LTIM,IT Services,eps_cagr_5yr,12.24383304425547,0.7500000000000001,Mar 2024
+TCS,IT Services,interest_coverage,87.09511568123393,0.7500000000000001,Mar 2024
+INFY,IT Services,interest_coverage,87.52340425531915,1.0,Mar 2024
+HCLTECH,IT Services,interest_coverage,46.46112115732369,0.49999999999999994,Mar 2024
+TECHM,IT Services,interest_coverage,13.85969387755102,0.0,Mar 2024
+LTIM,IT Services,interest_coverage,31.93243243243243,0.25,Mar 2024
+TCS,IT Services,asset_turnover,1.6559406621205455,1.0,Mar 2024
+INFY,IT Services,asset_turnover,1.129760329363329,0.25,Mar 2024
+HCLTECH,IT Services,asset_turnover,1.1101650405025958,0.0,Mar 2024
+TECHM,IT Services,asset_turnover,1.2050337203643189,0.49999999999999994,Mar 2024
+LTIM,IT Services,asset_turnover,1.2894641301190821,0.7500000000000001,Mar 2024
+LICI,Life Insurance,return_on_equity_pct,49.44710986501021,1.0,Mar 2024
+HDFCLIFE,Life Insurance,return_on_equity_pct,10.732306013909723,0.3333333333333333,Mar 2024
+SBILIFE,Life Insurance,return_on_equity_pct,12.704588140595655,0.6666666666666666,Mar 2024
+ICICIPRULI,Life Insurance,return_on_equity_pct,7.732848705134029,0.0,Mar 2024
+LICI,Life Insurance,return_on_capital_employed_pct,39.05035832114759,0.3333333333333333,Mar 2024
+HDFCLIFE,Life Insurance,return_on_capital_employed_pct,645.952868852459,0.6666666666666666,Mar 2024
+SBILIFE,Life Insurance,return_on_capital_employed_pct,1.140327341024953,0.0,Mar 2024
+ICICIPRULI,Life Insurance,return_on_capital_employed_pct,753.9778779188856,1.0,Mar 2024
+LICI,Life Insurance,net_profit_margin_pct,4.836600998148862,1.0,Mar 2024
+HDFCLIFE,Life Insurance,net_profit_margin_pct,1.5510139729213062,0.6666666666666666,Mar 2024
+SBILIFE,Life Insurance,net_profit_margin_pct,1.4349789374791648,0.3333333333333333,Mar 2024
+ICICIPRULI,Life Insurance,net_profit_margin_pct,0.942341125272681,0.0,Mar 2024
+LICI,Life Insurance,debt_to_equity,0.0,1.0,Mar 2024
+HDFCLIFE,Life Insurance,debt_to_equity,0.06477567162143734,0.33333333333333337,Mar 2024
+SBILIFE,Life Insurance,debt_to_equity,0.0,1.0,Mar 2024
+ICICIPRULI,Life Insurance,debt_to_equity,0.10904134484325306,0.0,Mar 2024
+LICI,Life Insurance,free_cash_flow_cr,853.0,1.0,Mar 2024
+HDFCLIFE,Life Insurance,free_cash_flow_cr,-2893.0,0.0,Mar 2024
+SBILIFE,Life Insurance,free_cash_flow_cr,-2099.0,0.3333333333333333,Mar 2024
+ICICIPRULI,Life Insurance,free_cash_flow_cr,105.0,0.6666666666666666,Mar 2024
+LICI,Life Insurance,pat_cagr_5yr,73.17556747076097,1.0,Mar 2024
+HDFCLIFE,Life Insurance,pat_cagr_5yr,4.25449161597129,0.3333333333333333,Mar 2024
+SBILIFE,Life Insurance,pat_cagr_5yr,7.374662152227485,0.6666666666666666,Mar 2024
+ICICIPRULI,Life Insurance,pat_cagr_5yr,-5.6631941891523425,0.0,Mar 2024
+LICI,Life Insurance,revenue_cagr_5yr,8.15986061977938,0.0,Mar 2024
+HDFCLIFE,Life Insurance,revenue_cagr_5yr,21.16813430936688,0.6666666666666666,Mar 2024
+SBILIFE,Life Insurance,revenue_cagr_5yr,24.231614182367544,1.0,Mar 2024
+ICICIPRULI,Life Insurance,revenue_cagr_5yr,16.84553965244746,0.3333333333333333,Mar 2024
+LICI,Life Insurance,eps_cagr_5yr,,0.5,Mar 2024
+HDFCLIFE,Life Insurance,eps_cagr_5yr,3.131030647754507,0.49999999999999994,Mar 2024
+SBILIFE,Life Insurance,eps_cagr_5yr,7.8852443962371455,1.0,Mar 2024
+ICICIPRULI,Life Insurance,eps_cagr_5yr,-5.591248870509801,0.0,Mar 2024
+LICI,Life Insurance,interest_coverage,371.9375,1.0,Mar 2024
+HDFCLIFE,Life Insurance,interest_coverage,192.2895238095238,0.3333333333333333,Mar 2024
+SBILIFE,Life Insurance,interest_coverage,240.33333333333334,0.6666666666666666,Mar 2024
+ICICIPRULI,Life Insurance,interest_coverage,31.021548821548823,0.0,Mar 2024
+LICI,Life Insurance,asset_turnover,0.15913440945875762,0.0,Mar 2024
+HDFCLIFE,Life Insurance,asset_turnover,0.33527042786773137,1.0,Mar 2024
+SBILIFE,Life Insurance,asset_turnover,0.33137919000549837,0.6666666666666666,Mar 2024
+ICICIPRULI,Life Insurance,asset_turnover,0.3020290902037117,0.3333333333333333,Mar 2024
+RELIANCE,Oil & Gas,return_on_equity_pct,9.958650553699458,0.0,Mar 2024
+ONGC,Oil & Gas,return_on_equity_pct,16.940398136885513,0.49999999999999994,Mar 2024
+BPCL,Oil & Gas,return_on_equity_pct,35.511337343822305,1.0,Mar 2024
+IOC,Oil & Gas,return_on_equity_pct,23.53162465856491,0.7500000000000001,Mar 2024
+GAIL,Oil & Gas,return_on_equity_pct,12.861540060002339,0.25,Mar 2024
+RELIANCE,Oil & Gas,return_on_capital_employed_pct,8.915648413697072,0.0,Mar 2024
+ONGC,Oil & Gas,return_on_capital_employed_pct,15.108995188179117,0.49999999999999994,Mar 2024
+BPCL,Oil & Gas,return_on_capital_employed_pct,28.649200669564017,1.0,Mar 2024
+IOC,Oil & Gas,return_on_capital_employed_pct,18.915027923238778,0.7500000000000001,Mar 2024
+GAIL,Oil & Gas,return_on_capital_employed_pct,10.772236337318176,0.25,Mar 2024
+RELIANCE,Oil & Gas,net_profit_margin_pct,8.789365557299389,0.7500000000000001,Mar 2024
+ONGC,Oil & Gas,net_profit_margin_pct,9.655290194725701,1.0,Mar 2024
+BPCL,Oil & Gas,net_profit_margin_pct,5.994201967046283,0.25,Mar 2024
+IOC,Oil & Gas,net_profit_margin_pct,5.559462717942377,0.0,Mar 2024
+GAIL,Oil & Gas,net_profit_margin_pct,7.433122166511544,0.49999999999999994,Mar 2024
+RELIANCE,Oil & Gas,debt_to_equity,0.5784524141094746,0.5,Mar 2024
+ONGC,Oil & Gas,debt_to_equity,0.45444863084819176,0.75,Mar 2024
+BPCL,Oil & Gas,debt_to_equity,0.7218747934157467,0.2499999999999999,Mar 2024
+IOC,Oil & Gas,debt_to_equity,0.7230954600718581,0.0,Mar 2024
+GAIL,Oil & Gas,debt_to_equity,0.28304998896060884,1.0,Mar 2024
+RELIANCE,Oil & Gas,free_cash_flow_cr,45207.0,1.0,Mar 2024
+ONGC,Oil & Gas,free_cash_flow_cr,42060.0,0.7500000000000001,Mar 2024
+BPCL,Oil & Gas,free_cash_flow_cr,25415.0,0.25,Mar 2024
+IOC,Oil & Gas,free_cash_flow_cr,39635.0,0.49999999999999994,Mar 2024
+GAIL,Oil & Gas,free_cash_flow_cr,4360.0,0.0,Mar 2024
+RELIANCE,Oil & Gas,pat_cagr_5yr,14.680632603495592,0.49999999999999994,Mar 2024
+ONGC,Oil & Gas,pat_cagr_5yr,10.96639922553624,0.25,Mar 2024
+BPCL,Oil & Gas,pat_cagr_5yr,25.790698729746552,1.0,Mar 2024
+IOC,Oil & Gas,pat_cagr_5yr,20.099089966731643,0.7500000000000001,Mar 2024
+GAIL,Oil & Gas,pat_cagr_5yr,8.608876760374562,0.0,Mar 2024
+RELIANCE,Oil & Gas,revenue_cagr_5yr,9.606097094616972,0.7500000000000001,Mar 2024
+ONGC,Oil & Gas,revenue_cagr_5yr,7.001683761214439,0.0,Mar 2024
+BPCL,Oil & Gas,revenue_cagr_5yr,8.483226324685255,0.49999999999999994,Mar 2024
+IOC,Oil & Gas,revenue_cagr_5yr,8.008755667240486,0.25,Mar 2024
+GAIL,Oil & Gas,revenue_cagr_5yr,11.825154521824267,1.0,Mar 2024
+RELIANCE,Oil & Gas,eps_cagr_5yr,11.952664832522043,0.49999999999999994,Mar 2024
+ONGC,Oil & Gas,eps_cagr_5yr,10.197228772148016,0.25,Mar 2024
+BPCL,Oil & Gas,eps_cagr_5yr,28.063048802615654,1.0,Mar 2024
+IOC,Oil & Gas,eps_cagr_5yr,20.11244339814313,0.7500000000000001,Mar 2024
+GAIL,Oil & Gas,eps_cagr_5yr,8.447177119769854,0.0,Mar 2024
+RELIANCE,Oil & Gas,interest_coverage,7.728912535686478,0.0,Mar 2024
+ONGC,Oil & Gas,interest_coverage,11.361290955463998,0.7500000000000001,Mar 2024
+BPCL,Oil & Gas,interest_coverage,11.355507351168956,0.49999999999999994,Mar 2024
+IOC,Oil & Gas,interest_coverage,10.282324578099226,0.25,Mar 2024
+GAIL,Oil & Gas,interest_coverage,23.624478442280946,1.0,Mar 2024
+RELIANCE,Oil & Gas,asset_turnover,0.5122600635424216,0.0,Mar 2024
+ONGC,Oil & Gas,asset_turnover,0.8332173339682772,0.25,Mar 2024
+BPCL,Oil & Gas,asset_turnover,2.213651947949293,1.0,Mar 2024
+IOC,Oil & Gas,asset_turnover,1.6084096601703395,0.7500000000000001,Mar 2024
+GAIL,Oil & Gas,asset_turnover,1.0680883472962681,0.49999999999999994,Mar 2024
+SUNPHARMA,Pharmaceuticals,return_on_equity_pct,15.094161810671148,0.25,Mar 2024
+CIPLA,Pharmaceuticals,return_on_equity_pct,15.554557028383135,0.49999999999999994,Mar 2024
+DRREDDY,Pharmaceuticals,return_on_equity_pct,19.74233736816026,0.7500000000000001,Mar 2024
+DIVISLAB,Pharmaceuticals,return_on_equity_pct,11.78984599513669,0.0,Mar 2024
+TORNTPHARM,Pharmaceuticals,return_on_equity_pct,24.154025670945156,1.0,Mar 2024
+SUNPHARMA,Pharmaceuticals,return_on_capital_employed_pct,15.627194096293751,0.25,Mar 2024
+CIPLA,Pharmaceuticals,return_on_capital_employed_pct,67.603154227031,1.0,Mar 2024
+DRREDDY,Pharmaceuticals,return_on_capital_employed_pct,21.361052353252248,0.49999999999999994,Mar 2024
+DIVISLAB,Pharmaceuticals,return_on_capital_employed_pct,13.49639015765434,0.0,Mar 2024
+TORNTPHARM,Pharmaceuticals,return_on_capital_employed_pct,23.533737819452107,0.7500000000000001,Mar 2024
+SUNPHARMA,Pharmaceuticals,net_profit_margin_pct,19.815658700538176,0.49999999999999994,Mar 2024
+CIPLA,Pharmaceuticals,net_profit_margin_pct,16.11701714906495,0.25,Mar 2024
+DRREDDY,Pharmaceuticals,net_profit_margin_pct,19.913605369319196,0.7500000000000001,Mar 2024
+DIVISLAB,Pharmaceuticals,net_profit_margin_pct,20.395156150414277,1.0,Mar 2024
+TORNTPHARM,Pharmaceuticals,net_profit_margin_pct,15.436241610738255,0.0,Mar 2024
+SUNPHARMA,Pharmaceuticals,debt_to_equity,0.051423814535002436,0.5,Mar 2024
+CIPLA,Pharmaceuticals,debt_to_equity,0.020931625851868495,0.75,Mar 2024
+DRREDDY,Pharmaceuticals,debt_to_equity,0.07085722375592836,0.2499999999999999,Mar 2024
+DIVISLAB,Pharmaceuticals,debt_to_equity,0.0002210596124088129,1.0,Mar 2024
+TORNTPHARM,Pharmaceuticals,debt_to_equity,0.5866394399066511,0.0,Mar 2024
+SUNPHARMA,Pharmaceuticals,free_cash_flow_cr,11372.0,1.0,Mar 2024
+CIPLA,Pharmaceuticals,free_cash_flow_cr,1152.0,0.49999999999999994,Mar 2024
+DRREDDY,Pharmaceuticals,free_cash_flow_cr,509.0,0.0,Mar 2024
+DIVISLAB,Pharmaceuticals,free_cash_flow_cr,992.0,0.25,Mar 2024
+TORNTPHARM,Pharmaceuticals,free_cash_flow_cr,3106.0,0.7500000000000001,Mar 2024
+SUNPHARMA,Pharmaceuticals,pat_cagr_5yr,24.536829642931245,0.7500000000000001,Mar 2024
+CIPLA,Pharmaceuticals,pat_cagr_5yr,22.726834848000887,0.25,Mar 2024
+DRREDDY,Pharmaceuticals,pat_cagr_5yr,23.392504645437473,0.49999999999999994,Mar 2024
+DIVISLAB,Pharmaceuticals,pat_cagr_5yr,3.4104521925080844,0.0,Mar 2024
+TORNTPHARM,Pharmaceuticals,pat_cagr_5yr,30.591457402327848,1.0,Mar 2024
+SUNPHARMA,Pharmaceuticals,revenue_cagr_5yr,10.78116321985565,0.7500000000000001,Mar 2024
+CIPLA,Pharmaceuticals,revenue_cagr_5yr,9.513860126378049,0.25,Mar 2024
+DRREDDY,Pharmaceuticals,revenue_cagr_5yr,12.639644349571988,1.0,Mar 2024
+DIVISLAB,Pharmaceuticals,revenue_cagr_5yr,9.664930361854074,0.49999999999999994,Mar 2024
+TORNTPHARM,Pharmaceuticals,revenue_cagr_5yr,6.932744476678732,0.0,Mar 2024
+SUNPHARMA,Pharmaceuticals,eps_cagr_5yr,29.45936165164078,0.7500000000000001,Mar 2024
+CIPLA,Pharmaceuticals,eps_cagr_5yr,21.832544608565986,0.25,Mar 2024
+DRREDDY,Pharmaceuticals,eps_cagr_5yr,23.842409558387544,0.49999999999999994,Mar 2024
+DIVISLAB,Pharmaceuticals,eps_cagr_5yr,3.303780411393231,0.0,Mar 2024
+TORNTPHARM,Pharmaceuticals,eps_cagr_5yr,30.391879544001377,1.0,Mar 2024
+SUNPHARMA,Pharmaceuticals,interest_coverage,58.331932773109244,0.7500000000000001,Mar 2024
+CIPLA,Pharmaceuticals,interest_coverage,35.33876811594203,0.25,Mar 2024
+DRREDDY,Pharmaceuticals,interest_coverage,51.707602339181285,0.49999999999999994,Mar 2024
+DIVISLAB,Pharmaceuticals,interest_coverage,636.25,1.0,Mar 2024
+TORNTPHARM,Pharmaceuticals,interest_coverage,9.926553672316384,0.0,Mar 2024
+SUNPHARMA,Pharmaceuticals,asset_turnover,0.5684929901064378,0.25,Mar 2024
+CIPLA,Pharmaceuticals,asset_turnover,0.7922417237881536,1.0,Mar 2024
+DRREDDY,Pharmaceuticals,asset_turnover,0.7223053120165034,0.49999999999999994,Mar 2024
+DIVISLAB,Pharmaceuticals,asset_turnover,0.5074385510996119,0.0,Mar 2024
+TORNTPHARM,Pharmaceuticals,asset_turnover,0.7396070320579111,0.7500000000000001,Mar 2024
+NTPC,Power & Utilities,return_on_equity_pct,13.273598407068633,0.6666666666666666,Mar 2024
+POWERGRID,Power & Utilities,return_on_equity_pct,17.870011245496066,0.8333333333333331,Mar 2024
+TATAPOWER,Power & Utilities,return_on_equity_pct,13.227840276919272,0.49999999999999994,Mar 2024
+ADANIPOWER,Power & Utilities,return_on_equity_pct,48.27674122146251,1.0,Mar 2024
+NHPC,Power & Utilities,return_on_equity_pct,10.407730866621879,0.16666666666666666,Mar 2024
+JSWENERGY,Power & Utilities,return_on_equity_pct,8.280529953917052,0.0,Mar 2024
+ADANIGREEN,Power & Utilities,return_on_equity_pct,12.812690665039659,0.3333333333333333,Mar 2024
+NTPC,Power & Utilities,return_on_capital_employed_pct,8.86082631000827,0.6666666666666666,Mar 2024
+POWERGRID,Power & Utilities,return_on_capital_employed_pct,12.689046909266978,0.8333333333333331,Mar 2024
+TATAPOWER,Power & Utilities,return_on_capital_employed_pct,8.076006740658958,0.49999999999999994,Mar 2024
+ADANIPOWER,Power & Utilities,return_on_capital_employed_pct,18.385823227581948,1.0,Mar 2024
+NHPC,Power & Utilities,return_on_capital_employed_pct,5.083984676480081,0.0,Mar 2024
+JSWENERGY,Power & Utilities,return_on_capital_employed_pct,7.15389752886175,0.16666666666666666,Mar 2024
+ADANIGREEN,Power & Utilities,return_on_capital_employed_pct,7.249772398650458,0.3333333333333333,Mar 2024
+NTPC,Power & Utilities,net_profit_margin_pct,11.950633329785267,0.16666666666666666,Mar 2024
+POWERGRID,Power & Utilities,net_profit_margin_pct,33.97028990249329,0.6666666666666666,Mar 2024
+TATAPOWER,Power & Utilities,net_profit_margin_pct,6.965125551270159,0.0,Mar 2024
+ADANIPOWER,Power & Utilities,net_profit_margin_pct,41.36759945184802,0.8333333333333331,Mar 2024
+NHPC,Power & Utilities,net_profit_margin_pct,41.81893687707641,1.0,Mar 2024
+JSWENERGY,Power & Utilities,net_profit_margin_pct,15.018283127285393,0.49999999999999994,Mar 2024
+ADANIGREEN,Power & Utilities,net_profit_margin_pct,13.665943600867678,0.3333333333333333,Mar 2024
+NTPC,Power & Utilities,debt_to_equity,1.475521125007778,0.5,Mar 2024
+POWERGRID,Power & Utilities,debt_to_equity,1.4173456039290386,0.6666666666666667,Mar 2024
+TATAPOWER,Power & Utilities,debt_to_equity,1.659321300531586,0.16666666666666685,Mar 2024
+ADANIPOWER,Power & Utilities,debt_to_equity,0.8023177656738903,1.0,Mar 2024
+NHPC,Power & Utilities,debt_to_equity,0.8413260296625498,0.8333333333333334,Mar 2024
+JSWENERGY,Power & Utilities,debt_to_equity,1.5156009984639016,0.33333333333333337,Mar 2024
+ADANIGREEN,Power & Utilities,debt_to_equity,6.595281675818589,0.0,Mar 2024
+NTPC,Power & Utilities,free_cash_flow_cr,8644.0,0.6666666666666666,Mar 2024
+POWERGRID,Power & Utilities,free_cash_flow_cr,24176.0,1.0,Mar 2024
+TATAPOWER,Power & Utilities,free_cash_flow_cr,3569.0,0.49999999999999994,Mar 2024
+ADANIPOWER,Power & Utilities,free_cash_flow_cr,17651.0,0.8333333333333331,Mar 2024
+NHPC,Power & Utilities,free_cash_flow_cr,970.0,0.3333333333333333,Mar 2024
+JSWENERGY,Power & Utilities,free_cash_flow_cr,-1963.0,0.16666666666666666,Mar 2024
+ADANIGREEN,Power & Utilities,free_cash_flow_cr,-13347.0,0.0,Mar 2024
+NTPC,Power & Utilities,pat_cagr_5yr,8.735165684951163,0.25,Mar 2024
+POWERGRID,Power & Utilities,pat_cagr_5yr,9.189188268434778,0.49999999999999994,Mar 2024
+TATAPOWER,Power & Utilities,pat_cagr_5yr,10.431728917459004,0.7500000000000001,Mar 2024
+ADANIPOWER,Power & Utilities,pat_cagr_5yr,,0.5,Mar 2024
+NHPC,Power & Utilities,pat_cagr_5yr,7.269596517101484,0.0,Mar 2024
+JSWENERGY,Power & Utilities,pat_cagr_5yr,20.322431469794555,1.0,Mar 2024
+ADANIGREEN,Power & Utilities,pat_cagr_5yr,,0.5,Mar 2024
+NTPC,Power & Utilities,revenue_cagr_5yr,12.222309654337993,0.49999999999999994,Mar 2024
+POWERGRID,Power & Utilities,revenue_cagr_5yr,5.510261937513361,0.3333333333333333,Mar 2024
+TATAPOWER,Power & Utilities,revenue_cagr_5yr,15.511158201876407,0.6666666666666666,Mar 2024
+ADANIPOWER,Power & Utilities,revenue_cagr_5yr,16.086096410440966,0.8333333333333331,Mar 2024
+NHPC,Power & Utilities,revenue_cagr_5yr,1.404917217643753,0.0,Mar 2024
+JSWENERGY,Power & Utilities,revenue_cagr_5yr,4.6799560539164675,0.16666666666666666,Mar 2024
+ADANIGREEN,Power & Utilities,revenue_cagr_5yr,34.976172926382844,1.0,Mar 2024
+NTPC,Power & Utilities,eps_cagr_5yr,8.447177119769854,0.49999999999999994,Mar 2024
+POWERGRID,Power & Utilities,eps_cagr_5yr,9.096607850144967,0.7500000000000001,Mar 2024
+TATAPOWER,Power & Utilities,eps_cagr_5yr,5.922384104881218,0.0,Mar 2024
+ADANIPOWER,Power & Utilities,eps_cagr_5yr,,0.5,Mar 2024
+NHPC,Power & Utilities,eps_cagr_5yr,5.922384104881218,0.0,Mar 2024
+JSWENERGY,Power & Utilities,eps_cagr_5yr,20.11244339814313,1.0,Mar 2024
+ADANIGREEN,Power & Utilities,eps_cagr_5yr,,0.5,Mar 2024
+NTPC,Power & Utilities,interest_coverage,4.604991464108609,0.6666666666666666,Mar 2024
+POWERGRID,Power & Utilities,interest_coverage,4.60298643565485,0.49999999999999994,Mar 2024
+TATAPOWER,Power & Utilities,interest_coverage,3.054392402331103,0.3333333333333333,Mar 2024
+ADANIPOWER,Power & Utilities,interest_coverage,8.297225501770956,0.8333333333333331,Mar 2024
+NHPC,Power & Utilities,interest_coverage,11.243421052631579,1.0,Mar 2024
+JSWENERGY,Power & Utilities,interest_coverage,2.8514369215781783,0.16666666666666666,Mar 2024
+ADANIGREEN,Power & Utilities,interest_coverage,1.713943268078306,0.0,Mar 2024
+NTPC,Power & Utilities,asset_turnover,0.37243729109201756,0.6666666666666666,Mar 2024
+POWERGRID,Power & Utilities,asset_turnover,0.18276594811604718,0.3333333333333333,Mar 2024
+TATAPOWER,Power & Utilities,asset_turnover,0.4419074604110633,0.8333333333333331,Mar 2024
+ADANIPOWER,Power & Utilities,asset_turnover,0.5472399439185297,1.0,Mar 2024
+NHPC,Power & Utilities,asset_turnover,0.10324018993108032,0.0,Mar 2024
+JSWENERGY,Power & Utilities,asset_turnover,0.19883324389357246,0.49999999999999994,Mar 2024
+ADANIGREEN,Power & Utilities,asset_turnover,0.10467043571055559,0.16666666666666666,Mar 2024
+HDFCBANK,Private Banks,return_on_equity_pct,14.33974005030719,0.49999999999999994,Mar 2024
+ICICIBANK,Private Banks,return_on_equity_pct,17.99027109750765,1.0,Mar 2024
+AXISBANK,Private Banks,return_on_equity_pct,15.832712405189048,0.7500000000000001,Mar 2024
+KOTAKBANK,Private Banks,return_on_equity_pct,14.013018188532914,0.0,Mar 2024
+INDUSINDBK,Private Banks,return_on_equity_pct,14.252273197764223,0.25,Mar 2024
+HDFCBANK,Private Banks,return_on_capital_employed_pct,4.801033923800871,0.49999999999999994,Mar 2024
+ICICIBANK,Private Banks,return_on_capital_employed_pct,5.11888931768417,0.7500000000000001,Mar 2024
+AXISBANK,Private Banks,return_on_capital_employed_pct,2.5207167817120824,0.0,Mar 2024
+KOTAKBANK,Private Banks,return_on_capital_employed_pct,7.113136699541475,1.0,Mar 2024
+INDUSINDBK,Private Banks,return_on_capital_employed_pct,3.4759622860212316,0.25,Mar 2024
+HDFCBANK,Private Banks,net_profit_margin_pct,23.07288232992184,0.49999999999999994,Mar 2024
+ICICIBANK,Private Banks,net_profit_margin_pct,28.888011233982798,0.7500000000000001,Mar 2024
+AXISBANK,Private Banks,net_profit_margin_pct,22.73130411725443,0.25,Mar 2024
+KOTAKBANK,Private Banks,net_profit_margin_pct,32.386151466116615,1.0,Mar 2024
+INDUSINDBK,Private Banks,net_profit_margin_pct,19.56369677362945,0.0,Mar 2024
+HDFCBANK,Private Banks,debt_to_equity,6.808786667718385,0.5,Mar 2024
+ICICIBANK,Private Banks,debt_to_equity,6.445624336310825,0.75,Mar 2024
+AXISBANK,Private Banks,debt_to_equity,8.249122739980766,0.0,Mar 2024
+KOTAKBANK,Private Banks,debt_to_equity,4.003739266919029,1.0,Mar 2024
+INDUSINDBK,Private Banks,debt_to_equity,6.885742949503957,0.2499999999999999,Mar 2024
+HDFCBANK,Private Banks,free_cash_flow_cr,35669.0,1.0,Mar 2024
+ICICIBANK,Private Banks,free_cash_flow_cr,12547.0,0.7500000000000001,Mar 2024
+AXISBANK,Private Banks,free_cash_flow_cr,-14556.0,0.25,Mar 2024
+KOTAKBANK,Private Banks,free_cash_flow_cr,6766.0,0.49999999999999994,Mar 2024
+INDUSINDBK,Private Banks,free_cash_flow_cr,-17468.0,0.0,Mar 2024
+HDFCBANK,Private Banks,pat_cagr_5yr,23.865063572879073,0.49999999999999994,Mar 2024
+ICICIBANK,Private Banks,pat_cagr_5yr,51.94877118224903,1.0,Mar 2024
+AXISBANK,Private Banks,pat_cagr_5yr,39.67228711897934,0.7500000000000001,Mar 2024
+KOTAKBANK,Private Banks,pat_cagr_5yr,20.38200065626572,0.0,Mar 2024
+INDUSINDBK,Private Banks,pat_cagr_5yr,22.077464953948358,0.25,Mar 2024
+HDFCBANK,Private Banks,revenue_cagr_5yr,21.95098428169122,1.0,Mar 2024
+ICICIBANK,Private Banks,revenue_cagr_5yr,17.25086850260209,0.7500000000000001,Mar 2024
+AXISBANK,Private Banks,revenue_cagr_5yr,14.743587120514379,0.25,Mar 2024
+KOTAKBANK,Private Banks,revenue_cagr_5yr,13.51960376324537,0.0,Mar 2024
+INDUSINDBK,Private Banks,revenue_cagr_5yr,15.495613083358029,0.49999999999999994,Mar 2024
+HDFCBANK,Private Banks,eps_cagr_5yr,15.424788082530828,0.0,Mar 2024
+ICICIBANK,Private Banks,eps_cagr_5yr,55.18455739153598,1.0,Mar 2024
+AXISBANK,Private Banks,eps_cagr_5yr,35.09600385206135,0.7500000000000001,Mar 2024
+KOTAKBANK,Private Banks,eps_cagr_5yr,19.344070441601247,0.49999999999999994,Mar 2024
+INDUSINDBK,Private Banks,eps_cagr_5yr,15.895621875417865,0.25,Mar 2024
+HDFCBANK,Private Banks,interest_coverage,1.4007688224792112,0.49999999999999994,Mar 2024
+ICICIBANK,Private Banks,interest_coverage,1.3009461331381824,0.25,Mar 2024
+AXISBANK,Private Banks,interest_coverage,1.691203992514036,0.7500000000000001,Mar 2024
+KOTAKBANK,Private Banks,interest_coverage,1.2363751084470385,0.0,Mar 2024
+INDUSINDBK,Private Banks,interest_coverage,1.8795270558159352,1.0,Mar 2024
+HDFCBANK,Private Banks,asset_turnover,0.07038097917866981,0.25,Mar 2024
+ICICIBANK,Private Banks,asset_turnover,0.06747535915921023,0.0,Mar 2024
+AXISBANK,Private Banks,asset_turnover,0.0720367478374617,0.49999999999999994,Mar 2024
+KOTAKBANK,Private Banks,asset_turnover,0.07325702420450533,0.7500000000000001,Mar 2024
+INDUSINDBK,Private Banks,asset_turnover,0.08884228106460039,1.0,Mar 2024
+SBIN,Public Sector Banks,return_on_equity_pct,,0.5,
+BANKBARODA,Public Sector Banks,return_on_equity_pct,15.761863790899902,0.0,Mar 2024
+CANBK,Public Sector Banks,return_on_equity_pct,16.716051794688113,0.49999999999999994,Mar 2024
+PNB,Public Sector Banks,return_on_equity_pct,61.320565191187306,1.0,Mar 2024
+SBIN,Public Sector Banks,return_on_capital_employed_pct,,0.5,
+BANKBARODA,Public Sector Banks,return_on_capital_employed_pct,2.7122786903374316,0.49999999999999994,Mar 2024
+CANBK,Public Sector Banks,return_on_capital_employed_pct,3.0948490094827803,1.0,Mar 2024
+PNB,Public Sector Banks,return_on_capital_employed_pct,-1.2952108649035026,0.0,Mar 2024
+SBIN,Public Sector Banks,net_profit_margin_pct,,0.5,
+BANKBARODA,Public Sector Banks,net_profit_margin_pct,15.93948250956673,1.0,Mar 2024
+CANBK,Public Sector Banks,net_profit_margin_pct,13.935160470145405,0.49999999999999994,Mar 2024
+PNB,Public Sector Banks,net_profit_margin_pct,8.395910695456838,0.0,Mar 2024
+SBIN,Public Sector Banks,debt_to_equity,,0.5,
+BANKBARODA,Public Sector Banks,debt_to_equity,12.143718727289434,0.5,Mar 2024
+CANBK,Public Sector Banks,debt_to_equity,14.867419925542423,0.0,Mar 2024
+PNB,Public Sector Banks,debt_to_equity,3.684256345007701,1.0,Mar 2024
+SBIN,Public Sector Banks,free_cash_flow_cr,,0.5,
+BANKBARODA,Public Sector Banks,free_cash_flow_cr,-7559.0,0.49999999999999994,Mar 2024
+CANBK,Public Sector Banks,free_cash_flow_cr,13296.0,1.0,Mar 2024
+PNB,Public Sector Banks,free_cash_flow_cr,-29445.0,0.0,Mar 2024
+SBIN,Public Sector Banks,pat_cagr_5yr,,0.5,
+BANKBARODA,Public Sector Banks,pat_cagr_5yr,74.50588066551305,0.0,Mar 2024
+CANBK,Public Sector Banks,pat_cagr_5yr,85.7752850068174,1.0,Mar 2024
+PNB,Public Sector Banks,pat_cagr_5yr,,0.5,Mar 2024
+SBIN,Public Sector Banks,revenue_cagr_5yr,,0.5,
+BANKBARODA,Public Sector Banks,revenue_cagr_5yr,17.477297665890944,0.49999999999999994,Mar 2024
+CANBK,Public Sector Banks,revenue_cagr_5yr,18.17561078322378,1.0,Mar 2024
+PNB,Public Sector Banks,revenue_cagr_5yr,15.902076009106025,0.0,Mar 2024
+SBIN,Public Sector Banks,eps_cagr_5yr,,0.5,
+BANKBARODA,Public Sector Banks,eps_cagr_5yr,55.18455739153598,1.0,Mar 2024
+CANBK,Public Sector Banks,eps_cagr_5yr,53.4206382524911,0.0,Mar 2024
+PNB,Public Sector Banks,eps_cagr_5yr,,0.5,Mar 2024
+SBIN,Public Sector Banks,interest_coverage,,0.5,
+BANKBARODA,Public Sector Banks,interest_coverage,1.8967477242617206,1.0,Mar 2024
+CANBK,Public Sector Banks,interest_coverage,1.6106611743349857,0.0,Mar 2024
+PNB,Public Sector Banks,interest_coverage,,0.5,Mar 2024
+SBIN,Public Sector Banks,asset_turnover,,0.5,
+BANKBARODA,Public Sector Banks,asset_turnover,0.07153782236255685,0.0,Mar 2024
+CANBK,Public Sector Banks,asset_turnover,0.0719985042520674,0.49999999999999994,Mar 2024
+PNB,Public Sector Banks,asset_turnover,1.5070262950629396,1.0,Mar 2024
+TATASTEEL,Steel,return_on_equity_pct,-5.334926929972293,0.0,Mar 2024
+JSWSTEEL,Steel,return_on_equity_pct,11.5528718021347,0.6666666666666666,Mar 2024
+JINDALSTEL,Steel,return_on_equity_pct,13.410506363390198,1.0,Mar 2024
+HINDALCO,Steel,return_on_equity_pct,9.567011474761177,0.3333333333333333,Mar 2024
+TATASTEEL,Steel,return_on_capital_employed_pct,6.903867304610952,0.0,Mar 2024
+JSWSTEEL,Steel,return_on_capital_employed_pct,12.064375531985535,0.3333333333333333,Mar 2024
+JINDALSTEL,Steel,return_on_capital_employed_pct,12.14055405672172,0.6666666666666666,Mar 2024
+HINDALCO,Steel,return_on_capital_employed_pct,113.57952517507476,1.0,Mar 2024
+TATASTEEL,Steel,net_profit_margin_pct,-2.1425049417247384,0.0,Mar 2024
+JSWSTEEL,Steel,net_profit_margin_pct,5.127252779904689,0.6666666666666666,Mar 2024
+JINDALSTEL,Steel,net_profit_margin_pct,11.802438733764944,1.0,Mar 2024
+HINDALCO,Steel,net_profit_margin_pct,4.702216130615571,0.3333333333333333,Mar 2024
+TATASTEEL,Steel,debt_to_equity,0.9461835171402184,0.33333333333333337,Mar 2024
+JSWSTEEL,Steel,debt_to_equity,1.1328071688833383,0.0,Mar 2024
+JINDALSTEL,Steel,debt_to_equity,0.3716941962270963,1.0,Mar 2024
+HINDALCO,Steel,debt_to_equity,0.5309290976579428,0.6666666666666667,Mar 2024
+TATASTEEL,Steel,free_cash_flow_cr,6048.0,0.6666666666666666,Mar 2024
+JSWSTEEL,Steel,free_cash_flow_cr,-2389.0,0.0,Mar 2024
+JINDALSTEL,Steel,free_cash_flow_cr,-2336.0,0.3333333333333333,Mar 2024
+HINDALCO,Steel,free_cash_flow_cr,9789.0,1.0,Mar 2024
+TATASTEEL,Steel,pat_cagr_5yr,,0.5,Mar 2024
+JSWSTEEL,Steel,pat_cagr_5yr,3.585216043903361,0.0,Mar 2024
+JINDALSTEL,Steel,pat_cagr_5yr,,0.5,Mar 2024
+HINDALCO,Steel,pat_cagr_5yr,13.06871230695661,1.0,Mar 2024
+TATASTEEL,Steel,revenue_cagr_5yr,7.766224835881497,0.3333333333333333,Mar 2024
+JSWSTEEL,Steel,revenue_cagr_5yr,15.604695052452788,1.0,Mar 2024
+JINDALSTEL,Steel,revenue_cagr_5yr,1.4028310947741707,0.0,Mar 2024
+HINDALCO,Steel,revenue_cagr_5yr,10.592433818985914,0.6666666666666666,Mar 2024
+TATASTEEL,Steel,eps_cagr_5yr,,0.5,Mar 2024
+JSWSTEEL,Steel,eps_cagr_5yr,2.3836255539609663,0.0,Mar 2024
+JINDALSTEL,Steel,eps_cagr_5yr,,0.5,Mar 2024
+HINDALCO,Steel,eps_cagr_5yr,13.396657763302722,1.0,Mar 2024
+TATASTEEL,Steel,interest_coverage,2.1634256792754396,0.0,Mar 2024
+JSWSTEEL,Steel,interest_coverage,3.659099321406539,0.3333333333333333,Mar 2024
+JINDALSTEL,Steel,interest_coverage,8.004636785162287,0.6666666666666666,Mar 2024
+HINDALCO,Steel,interest_coverage,126.46543778801843,1.0,Mar 2024
+TATASTEEL,Steel,asset_turnover,0.8509498277091255,0.6666666666666666,Mar 2024
+JSWSTEEL,Steel,asset_turnover,0.7679137157851319,0.3333333333333333,Mar 2024
+JINDALSTEL,Steel,asset_turnover,0.6400172860847018,0.0,Mar 2024
+HINDALCO,Steel,asset_turnover,0.9360228499109322,1.0,Mar 2024

@@ -1,0 +1,28 @@
+SPRINT 3 REVIEW — SCREENER + PEER ENGINE
+
+Completed:
+- Filter engine with YAML-driven thresholds
+- 15+ screener metrics supported
+- Financials sector D/E carve-out implemented
+- Debt Free ICR handling implemented
+- 6 preset screeners implemented and tested
+- Composite quality score and sector-relative score generated
+- Screener Excel export with 6 sheets and colour coding
+- Peer percentile engine generated 11 peer groups across 10 metrics
+- D/E percentile ranking inverted so lower leverage gets better rank
+- peer_percentiles table populated in SQLite
+- Radar charts generated for all companies in company master
+- Peer comparison workbook generated with 11 sheets
+- Percentile cells colour-coded and benchmark rows highlighted
+- Median summary row added to peer comparison sheets
+- Tests passed: 41 passed
+
+Preset counts:
+- Quality Compounder: 49
+- Value Pick: 15
+- Growth Accelerator: 38
+- Dividend Champion: 50
+- Debt-Free Blue Chip: 21
+- Turnaround Watch: 50
+
+Sprint 3 status: COMPLETE
